@@ -12,7 +12,7 @@
 
 [MOCK-UP](https://www.figma.com/file/h1veXmuEt84sT7PEZgF42K/Frontend_test?node-id=0%3A1&t=SWkoSGHxNg38rHqH-0)
 
-[DEMO-LINK](codebridge-app.netlify.app)
+[DEMO-LINK](https://codebridge-app.netlify.app)
 
 The user enters keywords into the field and the system displays all articles containing at least one of the keywords in the name or/and description.
 
