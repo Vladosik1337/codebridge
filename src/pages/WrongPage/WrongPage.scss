@@ -1,0 +1,19 @@
+@import '../../styles/vars';
+
+.container {
+  width: 100wv;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &__text {
+    font-size: 30px;
+    font-weight: 700;
+
+    color: $text;
+    margin-bottom: 20px;
+  }
+}

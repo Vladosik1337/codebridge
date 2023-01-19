@@ -1,0 +1,22 @@
+.article-page {
+  max-width: 1440px;
+  box-sizing: border-box;
+  padding: 0px 75px;
+  margin: 0 auto;
+
+  padding: 50px 75px;
+
+  &__results {
+    font-weight: 600;
+  }
+
+  &__line {
+    margin-bottom: 45px;
+  }
+
+  &__articles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 45px;
+  }
+}

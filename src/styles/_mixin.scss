@@ -1,0 +1,16 @@
+@import './vars';
+
+@mixin button() {
+  display: flex;
+  align-items: center;
+  gap: 0 10px;
+  color: $text;
+  font-weight: 700;
+  text-decoration: none;
+
+  transition: gap 0.5s, color 0.5s;
+  &:hover {
+    gap: 0 20px;
+    color: $black;
+  }
+}

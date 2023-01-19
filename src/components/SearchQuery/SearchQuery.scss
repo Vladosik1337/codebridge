@@ -1,0 +1,15 @@
+.filter {
+  margin-bottom: 40px;
+
+  &__label {
+    display: block;
+
+    font-weight: 600;
+
+    margin-bottom: 10px;
+  }
+
+  &__input {
+    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.05);
+  }
+}
