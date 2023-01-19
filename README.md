@@ -14,6 +14,12 @@
 
 https://codebridge-app.netlify.app
 
+## Routes
+
+- / HomePage
+- /artilces AllArtilces
+- /article/id Article
+
 The user enters keywords into the field and the system displays all articles containing at least one of the keywords in the name or/and description.
 
 The priority of fields: (1) names; and (2) description. The article with one match in the name is higher than the article with one match in the description.
